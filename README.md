@@ -38,11 +38,15 @@ This JavaScript file handles the interaction with the popup window. It initializ
 ## Usage
 
 1. Install the extension in Chrome.
-2. Click on the extension icon in the toolbar.
-3. Enter a valid YouTube video URL in the input field.
-4. Click the submit button.
-5. The video will start playing automatically.
-6. Click the play/pause button in the popup window to control video playback.
+2. Open a youtube video in your browser tab.
+3. Pause the youtube video.
+4. Click on the extension icon in the toolbar.
+5. Enter a valid YouTube video URL in the input field.
+6. You can right click on the extension UI and select inspect element to avoid the extension window to close.
+7. Click the submit button.
+8. The video will start playing automatically.
+9. Play/Pause the youtube video in the browser tab to Pause/Play the extension video.
+10. If it does not work, refresh the browser tab.
 
 ## Notes
 
