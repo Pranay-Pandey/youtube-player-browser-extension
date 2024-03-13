@@ -58,3 +58,9 @@ This JavaScript file handles the interaction with the popup window. It initializ
 **TIP** 
 - To avoid the extension window to close, right click anywhere and select inspect element, this will keep the extension window open till the time no other tab is clicked.
 - You can set the width and height of the player in popup.js file
+
+**PRO-TIP**
+- Right click on extension and select inspect element
+- On the console type `document.URL`
+- Copy paste this url on any new tab
+- Now play the video, Now on any active youtube video tab, if you stop the player the extension page player will play and vice-versa
