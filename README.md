@@ -64,3 +64,9 @@ This JavaScript file handles the interaction with the popup window. It initializ
 - On the console type `document.URL`
 - Copy paste this url on any new tab
 - Now play the video, Now on any active youtube video tab, if you stop the player the extension page player will play and vice-versa
+
+# To-do
+- [ ] Play a youtube playlist one by one
+- [ ] Add a media player for any other type of video
+- [ ] Other action hooks other than active youtube video paused
+- [ ] Loop the video
